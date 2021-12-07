@@ -1,0 +1,106 @@
+body{
+    background-color: lightblue;
+}
+
+.box1{
+    height: 300%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+    padding-bottom: 40%;
+    background-color:rosybrown;
+    border-radius: 30px;
+   
+}
+.box2{
+   
+    height: 300px;
+    width:200px;
+    padding-top:5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 0;
+    float: left; 
+    display: inline;
+    background-color:lightpink;
+    border-radius: 30px;
+}
+.box3{
+  float: right;
+  display: inline;
+    height: 300px;
+    width:250px;
+    padding-top:5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin:0;
+    background-color:lightpink;
+    border-radius: 30px;
+}
+.check2{
+    
+    min-height: 50px ;
+    min-width: 200px;
+    background-color: lightblue;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+.check3{
+    min-height: 50px ;
+    min-width: 200px;
+    background-color: lightblue;
+    border-radius: 12px;
+    font-weight: bold; 
+}
+.hidden{
+    display: none;
+
+}
+.dice1{
+    font-size:200%;
+    padding-left: 0%;
+    color:brown;
+    font-weight: bold;
+    
+}
+.dice2{
+    font-size:200%;
+    padding-left: 0%;
+    color:brown;
+    font-weight: bold;
+}
+.dice0{
+    font-size:200%;
+    padding-left: 0%;
+    margin:0;
+    display: inline;
+    float: left;
+    color:navy;
+    font-weight: bold;
+}
+.dice0r{
+    margin: 0;
+    margin-left: 190px;
+    display: inline;
+    font-size:200%;
+    color:navy;
+    font-weight: bold;
+  
+}
+.resetb{
+
+float: left;
+width: 150px;
+height: 40px;
+margin-left: 350px;
+border-radius: 12px;
+}
+.winner{
+    max-height: 300px;
+ float: center;
+margin-left: 25%;
+}
